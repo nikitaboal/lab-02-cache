@@ -1,5 +1,5 @@
-#include <example.hpp>
+#include <cache.hpp>
 
 int main() {
-  example();
+  fullExperiment();
 }
