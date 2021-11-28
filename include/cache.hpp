@@ -1,7 +1,7 @@
 // Copyright 2021 Your Name <your_email>
 
-#ifndef INCLUDE_CACHE_HPP
-#define INCLUDE_CACHE_HPP
+#ifndef INCLUDE_CACHE_HPP_
+#define INCLUDE_CACHE_HPP_
 
 #include <iostream>
 #include <stdexcept>
@@ -42,4 +42,4 @@ void experiment(size_t bufferSize, size_t number, researchTimes* times);
 
 void fullExperiment();
 
-#endif  // INCLUDE_CACHE_HPP
+#endif  // INCLUDE_CACHE_HPP_
